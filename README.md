@@ -88,3 +88,44 @@ Our Organization Structure
 
 Jemin Information  Technology  is  a   monolithic OpenSource  Research Organization.
 
+
+
+ProductAndServices
+------------------
+
+Products/Services Our Products /Services is focused on rapid business growth, Quick delivery of products according to market standards.
+
+Product Categories
+-------------------
+
+Operating  system  Development
+Inventing    standard    Technology  according    to  market   standards.
+Utilities
+Banking  and   Finance  Domian
+Customer  Service
+Insurance  Domain
+Human  Resources   Domain
+Marketing   Domain
+Databases
+Webdesign
+Webpublishing
+Cloud  computing
+Quality  analysis
+Research  Domain.
+
+Services Categories
+--------------------
+
+Business  Applications
+Advanced   Project   Management
+Oracle
+Application  Management
+Cloud
+Engineering   Services
+Testing
+Customer   Service
+Human   Resource
+Finance   and   Accounting
+
+
+
