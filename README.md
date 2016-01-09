@@ -5,6 +5,16 @@ JIT  is    focused  on  research   in  Inventing    new   Technolgies  acc  to c
 Jemin Information Technology is otherwise known as JIT is a product based Org. 
 
 
+It  is  one of  the  Best  Research  Organization  with 
+
+Many  Cloud   computing   ,  and   software   Technologies.
+
+This  Organization  is  also  concenterated  in   Operating  System  Research...
+
+JIT  focused  on   client  satisfaction by  improving  existing
+
+Technologies  and  Inventing  new  Technologies.
+
 Jemin Information Technology(JIT) is focused on Advanced Software Development, WebDesign,
 Developing utilities, WebPublishing ,Cloud computing , and Client Services. JIT provides information technology,
 software engineering , research , and Quality Analysis.
