@@ -24,11 +24,11 @@ software engineering , research , and Quality Analysis.
 Why Us?
 ------
 
-We always focused on Jemin Research
+We always focused on Wilmix Research
 
-Lab (JRL) Techniques that give Best Product for our IT industry.
+Lab (WRL) Techniques that give Best Product for our IT industry.
 
-So JRL is meant for Testing
+So WRL is meant for Testing
 
 Software Quality for any IT and
 
