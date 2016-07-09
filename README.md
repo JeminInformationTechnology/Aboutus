@@ -40,12 +40,12 @@ We can Charge rupees 1500 for
 
 any projects. 
 
-Jemin Research Centre (JSR)-part2:
+Wilmix Research Centre (WSR)-part2:
 ---------------------------------
 
-JSR is the part of (JIT). JSR is focused on Testing the
+WSR is the part of (JIT). WSR is focused on Testing the
 
-quality of any software products which meets client requirement or not. JSR contains Jemin Research Lab.
+quality of any software products which meets client requirement or not. WSR contains Wilmix Research Lab.
 
 Wilmix Product Development Life Cycle (WPDLC)
 
