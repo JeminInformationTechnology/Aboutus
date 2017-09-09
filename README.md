@@ -146,9 +146,9 @@ d) WilmixInstituteOfTechnology  =>  focused  on  professional  training  and  ce
 e)  SoftwareQualityResearchTesting =>
 It is about testing the Quality of a Software product or Technology or not. Whether it meets industry standards or not.
 
-f)  JeminSoftwareSolutions =>  focused   on   software  projects   using  WRIT  Technologies.
+f)  JeminSoftwareSolutions =>  focused   on   software  projects   using  WRIT  Technologies Like OAKJAVA7,JDollar(JWEB) ,sling ,etc
 
 g)  WILMIXASIANSYSTEM  => It  is  a  sub branch  organization   focused   only  at  Asia...
 
-
+h) EbenezerInformationTechnology  => focused  on  research and  DOTWEB  Advanced Business
 
