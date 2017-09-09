@@ -148,7 +148,7 @@ It is about testing the Quality of a Software product or Technology or not. Whet
 
 f)  JeminSoftwareSolutions =>  focused   on   software  projects   using  WRIT  Technologies.
 
-
+g)  WILMIXASIANSYSTEM  => It  is  a  sub branch  organization   focused   only  at  Asia...
 
 
 
