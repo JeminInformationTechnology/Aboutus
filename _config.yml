@@ -1,0 +1,8 @@
+title: Aboutus
+description: JIT  is    focused  on  research   in  Inventing    new   Technolgies  acc  to client  satisfaction.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
