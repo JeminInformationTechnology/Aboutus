@@ -129,3 +129,19 @@ Finance   and   Accounting
 
 
 
+JeminInformationTechnology   sub  organizations Or   JIT  Group  organizations   are  
+
+a)  ZionInformationtechnology(ZIT) => Focused  on  Research  based  on  C/C#/JAVA7  concepts
+
+b) JeminInfinitiveInformationTechnology(JIIT)  => focused  on  Advanced  Business
+
+c) WilmixSoftwareSystem(WSS) =>  focused  for  doing  software  projects 
+
+d) WilmixInstituteOfTechnology  =>  focused  on  professional  training  and  certifications
+
+e)  SoftwareQualityResearchTesting =>
+It is about testing the Quality of a Software product or Technology or not. Whether it meets industry standards or not.
+
+f)  JeminSoftwareSolutions =>  focused   on   software  projects   using  WRIT  Technologies.
+
+
