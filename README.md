@@ -143,6 +143,12 @@ c) WilmixSoftwareSystem(WSS) =>  focused  for  doing  software  projects
 
 d) WilmixInstituteOfTechnology  =>  focused  on  professional  training  and  certifications
 
-e)  
+e)  SoftwareQualityResearchTesting =>
+It is about testing the Quality of a Software product or Technology or not. Whether it meets industry standards or not.
+
+f)  JeminSoftwareSolutions =>  focused   on   software  projects   using  WRIT  Technologies.
+
+
+
 
 
