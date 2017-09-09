@@ -1,8 +1,13 @@
 # Aboutus
+========
 JIT  is    focused  on  research   in  Inventing    new   Technologies  acc  to client  satisfaction.
 
 
-Jemin Information Technology is otherwise known as JIT is a product based Org. 
+Jemin Information Technology is otherwise known as JIT is a product based Org.  JeminInformationtechnology
+
+has  powerful and  God  Wisdom  Advanced Business Technologies  like  JDollar(JWEB), DOTWEB,JSWORD,NJDollar. 
+
+So  it  is  ranked   as  Rank  Z' Organization.
 
 
 It  is  one of  the  Best  Research  Organization  with 
@@ -127,5 +132,17 @@ Customer   Service
 Human   Resource
 Finance   and   Accounting
 
+
+JeminInformationTechnology   sub  organizations Or   JIT  Group  organizations   are  
+
+a)  ZionInformationtechnology(ZIT) => Focused  on  Research  based  on  C/C#/JAVA7  concepts
+
+b) JeminInfinitiveInformationTechnology(JIIT)  => focused  on  Advanced  Business
+
+c) WilmixSoftwareSystem(WSS) =>  focused  for  doing  software  projects 
+
+d) WilmixInstituteOfTechnology  =>  focused  on  professional  training  and  certifications
+
+e)  
 
 
